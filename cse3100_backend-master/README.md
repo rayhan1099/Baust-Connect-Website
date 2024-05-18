@@ -1,0 +1,3 @@
+# BAUST Connect
+
+## About page
